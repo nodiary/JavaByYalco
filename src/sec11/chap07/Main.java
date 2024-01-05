@@ -23,7 +23,8 @@ public class Main {
 //            exceptionallyEx(false);
 //            exceptionallyEx(true);
 //            thenComposeEx();
-            allOfEx1();
+//            allOfEx1();
+            allOfEx2();
         } catch (Exception e) {
             e.printStackTrace();
         }
